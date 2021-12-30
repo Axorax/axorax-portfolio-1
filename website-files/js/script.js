@@ -1,9 +1,3 @@
-// Universal Variables
-
-// Main Content
-document.addEventListener('contextmenu', event => event.preventDefault());
-document.addEventListener('dragstart', event => event.preventDefault())
-
   // Typing Effect
   var typed = new Typed(".typing", {
     strings: ["YouTube", "Programming", "Science", "Chess", "Hacking"],
